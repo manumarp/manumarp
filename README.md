@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Martínez</h1>
-<h3 align="center">A passionate Machine Learning Engineer, I live in Colombia and enjoy climbing and I am passionate about reading literature in my free time.</h3>
+<h3 align="center">A Machine Learning Engineer, I live in Colombia and enjoy climbing and I am passionate about reading literature in my free time.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
